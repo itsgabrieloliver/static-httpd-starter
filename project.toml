@@ -1,8 +1,0 @@
-[build]
-[[build.buildpacks]]
-id = "paketo-buildpacks/nginx"
-version = "0.17.24"
-
-[build.environment]
-BP_WEB_SERVER = "nginx"
-BP_WEB_SERVER_ROOT = "."
