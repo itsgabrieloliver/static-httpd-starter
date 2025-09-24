@@ -1,0 +1,4 @@
+[build]
+[build.environment]
+BP_WEB_SERVER = "nginx"
+BP_WEB_SERVER_ROOT = "."

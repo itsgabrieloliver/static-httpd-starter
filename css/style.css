@@ -1,0 +1,23 @@
+html {
+    min-height: 100%;
+    display: flex;
+}
+
+body {
+    background-color: #0a0a0a;
+    font-family: "Lato", sans-serif;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-weight: 700;
+    color: #fafafa;
+}
+
+p {
+    color: #727272;
+}
